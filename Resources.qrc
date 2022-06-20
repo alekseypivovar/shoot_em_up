@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/g11.png</file>
+        <file>images/g12.png</file>
+        <file>images/g21.png</file>
+        <file>images/g22.png</file>
+        <file>images/g31.png</file>
+        <file>images/g32.png</file>
+        <file>images/g41.png</file>
+        <file>images/g42.png</file>
+        <file>images/g51.png</file>
+        <file>images/g52.png</file>
+        <file>images/w11.png</file>
+        <file>images/w12.png</file>
+        <file>images/w21.png</file>
+        <file>images/w22.png</file>
+        <file>images/w31.png</file>
+        <file>images/w32.png</file>
+        <file>images/w41.png</file>
+        <file>images/w42.png</file>
+        <file>images/w51.png</file>
+        <file>images/w52.png</file>
+    </qresource>
+</RCC>
